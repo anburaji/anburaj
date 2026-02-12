@@ -1,0 +1,14 @@
+
+.cont-1{
+    background-color: rgb(66, 185, 245);
+}
+
+.cont-1 .card-2{
+    /* background-color: white; */
+    border-radius: 16px;
+}
+
+.heart-video {
+  width: 300px;
+  border-radius: 14px;
+}
